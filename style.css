@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Montaga');
 
-
 body 
 { 
 	padding-top:125px;
@@ -13,20 +12,19 @@ body
 	background-position: 0px -120px;
     background-repeat: no-repeat;
     background-size: cover;
-	margin-bottom: 50px;
-	
+	margin-bottom: 50px;	
 }
+
 .panel-title 
 {
 	display: inline;
 	font-weight: bold;
 }
+
 .pl-ziro 
 { 
 	padding-left: 0px; 
 }
-
-
 
 .btn {
 	border-radius:35px;
@@ -35,8 +33,6 @@ body
 	box-shadow: 0px 8px 6px #737373;
   	transition: all 0.3s ease 0s;
 }
-
-
 
 .btn2 {
 	display: inline-block;
@@ -55,8 +51,7 @@ body
 
 }
 
-.btn2 span{
-
+.btn2 span{	
 cursor: pointer;
   display: inline-block;
   position: relative;
